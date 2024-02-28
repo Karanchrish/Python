@@ -1,2 +1,2 @@
-# Python
-Master Python &amp; OOP from basics to advanced! Covers operators, loops, OOP principles, advanced topics, best practices, and projects. Contribute &amp; learn. Happy coding! 🚀
+# Comprehensive Python Learning Repository 🐍
+Welcome to the ultimate Python learning resource! This repository is designed to cover Python and Object-Oriented Programming (OOP) concepts comprehensively, from the basics to advanced topics. Whether you are a beginner or looking to sharpen your skills, this repository has got you covered.
