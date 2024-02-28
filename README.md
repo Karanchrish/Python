@@ -14,3 +14,12 @@ Welcome to the ultimate Python learning resource! This repository is designed to
   - -Membership Operators
   - Identity Operators
   - Ternary (Conditional) Operator
+### 3. Control Statements
+  - Conditional Statements
+    - if statement
+    - else statement
+    - elif statement
+  - Looping Statements
+    - for loop
+    - while loop
+    - Loop control statements (break, continue, pass)
