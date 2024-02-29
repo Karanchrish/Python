@@ -23,3 +23,13 @@ Welcome to the ultimate Python learning resource! This repository is designed to
     - for loop
     - while loop
     - Loop control statements (break, continue, pass)
+### 4. String Slicing & Built-in Functions
+  - String Slicing
+  - Common String Built-in Functions
+    - len()
+    - str()
+    - upper() and lower()
+    - strip() and split()
+    - find() and replace()
+    - startswith() and endswith()
+    - Formatting Strings
