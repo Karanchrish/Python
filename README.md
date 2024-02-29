@@ -33,3 +33,8 @@ Welcome to the ultimate Python learning resource! This repository is designed to
     - find() and replace()
     - startswith() and endswith()
     - Formatting Strings
+### 5. Data Structures
+  - List
+  - Tuple
+  - Set
+  - Dictionary
