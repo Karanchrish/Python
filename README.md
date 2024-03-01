@@ -72,4 +72,3 @@ Welcome to the ultimate Python learning resource! This repository is designed to
   - write
   - Append
   - Read
-  - 
