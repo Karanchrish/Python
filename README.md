@@ -38,23 +38,26 @@ Welcome to the ultimate Python learning resource! This repository is designed to
   - Tuple
   - Set
   - Dictionary
-### Built-in Functions
+### 6. Built-in Functions
   - abs(), round()
   - all(), any()
   - ord(), ascii(), bin(), bool()
   - int(), float(), str(), tuple()
   - pow(), format(), min(), max()
-### User-Defined Functions
+### 7. User-Defined Functions
   - Function Definition
   - Function Calling
   - Default Arguments
   - Keyword Arguments
-### Inheritance
+### 8. Class & Object
+  - Attributes
+  - Methods
+### 9. Inheritance
   - Single Inheritance
   - Multiple Inheritance
   - Multilevel Inheritance
   - Hybrid Inheritance
   - Hierarchical Inheritance
-### Polymorphism
+### 10. Polymorphism
   - Overriding
   - Overloading
