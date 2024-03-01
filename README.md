@@ -49,3 +49,9 @@ Welcome to the ultimate Python learning resource! This repository is designed to
   - Function Calling
   - Default Arguments
   - Keyword Arguments
+### Inheritance
+- Single Inheritance
+- Multiple Inheritance
+- Multilevel Inheritance
+- Hybrid Inheritance
+- Hierarchical Inheritance
