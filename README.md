@@ -61,3 +61,15 @@ Welcome to the ultimate Python learning resource! This repository is designed to
 ### 10. Polymorphism
   - Overriding
   - Overloading
+### 11. Exception Handling
+  - Index Error
+  - Value Error
+  - Zero Division Error
+  - Module Not Found Error
+  - User Defined Exception
+### File Handling
+  - Create
+  - write
+  - Append
+  - Read
+  - 
