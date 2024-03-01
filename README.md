@@ -38,3 +38,14 @@ Welcome to the ultimate Python learning resource! This repository is designed to
   - Tuple
   - Set
   - Dictionary
+### Built-in Functions
+  - abs(), round()
+  - all(), any()
+  - ord(), ascii(), bin(), bool()
+  - int(), float(), str(), tuple()
+  - pow(), format(), min(), max()
+### User-Defined Functions
+  - Function Definition
+  - Function Calling
+  - Default Arguments
+  - Keyword Arguments
